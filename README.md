@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey there, I'm Chirag! It's great to connect with you. I'm currently studying IT at NITK Surathkal in India and have a passion for React development. I'm excited to explore other amazing technological tools as well. Let's build something amazing together! I'm absolutely captivated by products that are both practical and customer-centric. They offer invaluable lessons, and the development process is immensely gratifying. It's truly a win-win situation!.</p>
+<p align="left">Hey there, I'm Chirag! It's great to connect with you. I'm currently studying IT at NITK Surathkal in India and have a passion for React development. I'm excited to explore other amazing technological tools as well. Let's build something amazing together! I'm captivated by products that are both practical and customer-centric. They offer invaluable lessons, and the development process is immensely gratifying. It's truly a win-win situation!</p>
 
 ###
 
@@ -72,6 +72,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Chirag2203/Chirag2203/output/snake.svg" alt="Snake animation" />
+
 
 ###
